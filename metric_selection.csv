@@ -1,0 +1,355 @@
+kind,mname,relevant
+aps,Computername,true
+aps,Namensserver,true
+aps,Registrierter Name,true
+aps,Betriebssystem,true
+aps,CPU-Typ,true
+aps,CPUs,true
+aps,RAM (MB),true
+aps,Lokale Zeit,true
+aps,Festplattengröße (GB),true
+aps,Belegter Speicherplatz (GB),true
+aps,Version,true
+aps,Startzeit,true
+aps,PID,true
+aps,Hostname,true
+aps,Host-IP-Adresse,true
+aps,Anforderungs-Port,true
+aps,Geclusterte CMS-Server,true
+aps,Fehlgeschlagene Aufträge,true
+aps,Ausstehende Aufträge,true
+aps,Laufende Aufträge,true
+aps,Abgeschlossene Aufträge,true
+aps,Wartende Aufträge,true
+aps,Erworbene Zugriffslizenzen,true
+aps,Erworbene Designer-Lizenzen,true
+aps,Erworbene Namenslizenzen,true
+aps,Erworbene Prozessorlizenzen,true
+aps,Erworbene Serverlizenzen,true
+aps,Erstellungsdatum,true
+aps,Systemdatenbankname,true
+aps,Systemdatenbank-Servername,true
+aps,Systemdatenbank-Anwendername,true
+aps,Datenquellenname,true
+aps,Erstellungsnummer,true
+aps,Produktversion,true
+aps,Ressourcenversion,true
+aps,Hergestellte Systemdatenbankverbindungen,true
+aps,Momentan verwendete Systemdatenbankverbindungen,true
+aps,Ausstehende Systemdatenbankanforderungen,true
+aps,Anzahl der Objekte in CMS-Systemcache,true
+aps,Anzahl der Objekte in CMS-Systemdatenbank,true
+aps,Verbundene Zugriffslizenzanwender,true
+aps,Verbundene Namenslizenzanwender,true
+aps,Vorhandene Konten für Zugriffslizenzanwender,true
+aps,Vorhandene Konten für Namenslizenzanwender,true
+aps,Serververbindungen,true
+jobserver,Objekttyp,true
+jobserver,Verarbeitungsmodul,true
+jobserver,Maximal zulässige Anzahl von Aufträgen,true
+jobserver,Gleichzeitige Aufträge,true
+jobserver,Eingegangene Auftragsanforderungen,true
+jobserver,Untergeordnete PIDs,true
+jobserver,Fehler bei der Auftragserstellung,true
+jobserver,Temporäres Verzeichnis,true
+jobserver,Verarbeitungsmodus,true
+jobserver,Job Server-Ziele,true
+jobserver,Standardeinstellungen für nicht verwaltetes Datenträgerziel gültig,true
+jobserver,(Erweitert) Standardeinstellungen für nicht verwaltetes Datenträgerziel gültig,true
+jobserver,Standardeinstellungen für FTP-Ziel gültig,true
+jobserver,(Erweitert) Standardeinstellungen für FTP-Ziel gültig,true
+jobserver,Standardeinstellungen für Posteingangsziel gültig,true
+jobserver,(Erweitert) Standardeinstellungen für Posteingangsziel gültig,true
+jobserver,Standardeinstellungen für SMTP-E-Mail-Ziel gültig,true
+jobserver,(Erweitert) Standardeinstellungen für SMTP-E-Mail-Ziel gültig,true
+jobserver,Computername,true
+jobserver,Namensserver,true
+jobserver,Registrierter Name,true
+jobserver,Betriebssystem,true
+jobserver,CPU-Typ,true
+jobserver,CPUs,true
+jobserver,RAM (MB),true
+jobserver,Lokale Zeit,true
+jobserver,Festplattengröße (GB),true
+jobserver,Belegter Speicherplatz (GB),true
+jobserver,Version,true
+jobserver,Startzeit,true
+jobserver,PID,true
+jobserver,Hostname,true
+jobserver,Host-IP-Adresse,true
+jobserver,Anforderungs-Port,true
+pjs,Threads in Transportschicht,true
+pjs,Maximaler Arbeitsspeicher (MB),true
+pjs,Freier Arbeitsspeicher (MB),true
+pjs,Verfügbare Prozessoren,true
+pjs,Größe des Transportschicht-Threadpools,true
+pjs,Gesamtarbeitsspeicher (MB),true
+pjs,Serverthreads,true
+pjs,PID,true
+pjs,Startzeit,true
+pjs,Lokale Zeit,true
+pjs,Anforderungs-Port,true
+pjs,Host-IP-Adresse,true
+pjs,Version,true
+pjs,Hostname,true
+CsContainer,Computername,true
+CsContainer,Namensserver,true
+CsContainer,Registrierter Name,true
+CsContainer,Betriebssystem,true
+CsContainer,CPU-Typ,true
+CsContainer,CPUs,true
+CsContainer,RAM (MB),true
+CsContainer,Lokale Zeit,true
+CsContainer,Festplattengröße (GB),true
+CsContainer,Belegter Speicherplatz (GB),true
+CsContainer,Version,true
+CsContainer,Startzeit,true
+CsContainer,PID,true
+CsContainer,Hostname,true
+CsContainer,Host-IP-Adresse,true
+CsContainer,Anforderungs-Port,true
+cacheserver,Älteste an einen Client übergebene Abrufdaten (in Sekunden),true
+cacheserver,Maximale Cache-Größe (KB),true
+cacheserver,Temporäres Verzeichnis,true
+cacheserver,Berichtsdaten für Clients freigeben,true
+cacheserver,Zeitsperre für Verbindung im Leerlauf (Minuten),true
+cacheserver,Viewer-Regenerierung gibt immer die akuellsten Daten zurück,true
+cacheserver,Cache-Trefferquote (%),true
+cacheserver,Offene Verbindungen,true
+cacheserver,Verarbeitete Anforderungen,true
+cacheserver,Objekttyp,true
+cacheserver,Anforderungen in der Warteschlange,true
+cacheserver,Verarbeitungsmodul,true
+cacheserver,Aktuelle Cache-Größe (KB),true
+cacheserver,Übertragene Daten (KB),true
+cacheserver,Computername,true
+cacheserver,Namensserver,true
+cacheserver,Registrierter Name,true
+cacheserver,Betriebssystem,true
+cacheserver,CPU-Typ,true
+cacheserver,CPUs,true
+cacheserver,RAM (MB),true
+cacheserver,Lokale Zeit,true
+cacheserver,Festplattengröße (GB),true
+cacheserver,Belegter Speicherplatz (GB),true
+cacheserver,Version,true
+cacheserver,Startzeit,true
+cacheserver,PID,true
+cacheserver,Hostname,true
+cacheserver,Host-IP-Adresse,true
+cacheserver,Anforderungs-Port,true
+pageserver,Computername,true
+pageserver,Namensserver,true
+pageserver,Registrierter Name,true
+pageserver,Betriebssystem,true
+pageserver,CPU-Typ,true
+pageserver,CPUs,true
+pageserver,RAM (MB),true
+pageserver,Lokale Zeit,true
+pageserver,Festplattengröße (GB),true
+pageserver,Belegter Speicherplatz (GB),true
+pageserver,Version,true
+pageserver,Startzeit,true
+pageserver,PID,true
+pageserver,Hostname,true
+pageserver,Host-IP-Adresse,true
+pageserver,Anforderungs-Port,true
+pageserver,Älteste an einen Client übergebene Abrufdaten (in Sekunden),true
+pageserver,Temporäres Verzeichnis,true
+pageserver,Berichtsdaten für Clients freigeben,true
+pageserver,Maximale Anzahl gleichzeitiger Berichtaufträge,true
+pageserver,Zeitsperre für Verbindung im Leerlauf (Minuten),true
+pageserver,Zeitsperre für Berichtsauftrag im Leerlauf (Minuten),true
+pageserver,Viewer-Regenerierung gibt immer die akuellsten Daten zurück,true
+pageserver,Maximale Anzahl von Aufträgen vor dem Zurücksetzen eines untergeordneten Prozesses,true
+pageserver,Zuvor geladene Berichtsaufträge,true
+pageserver,Verarbeitete Anforderungen,true
+pageserver,Aktuell offene Berichtsaufträge,true
+pageserver,Objekttyp,true
+pageserver,Anforderungen in der Warteschlange,true
+pageserver,Verarbeitungsmodul,true
+pageserver,Aktuell offene Verbindungen,true
+pageserver,Übertragene Daten (KB),true
+pageserver,Fehlgeschlagene Anforderungen,true
+pageserver,Maximale untergeordnete Prozesse,true
+dpscacheFullClient,Älteste an einen Client übergebene Abrufdaten (in Sekunden),true
+dpscacheFullClient,Maximale Cache-Größe (KB),true
+dpscacheFullClient,Temporäres Verzeichnis,true
+dpscacheFullClient,Berichtsdaten für Clients freigeben,true
+dpscacheFullClient,Zeitsperre für Verbindung im Leerlauf (Minuten),true
+dpscacheFullClient,Viewer-Regenerierung gibt immer die akuellsten Daten zurück,true
+dpscacheFullClient,Cache-Trefferquote (%),true
+dpscacheFullClient,Offene Verbindungen,true
+dpscacheFullClient,Verarbeitete Anforderungen,true
+dpscacheFullClient,Objekttyp,true
+dpscacheFullClient,Anforderungen in der Warteschlange,true
+dpscacheFullClient,Verarbeitungsmodul,true
+dpscacheFullClient,Aktuelle Cache-Größe (KB),true
+dpscacheFullClient,Übertragene Daten (KB),true
+dpscacheFullClient,Computername,true
+dpscacheFullClient,Namensserver,true
+dpscacheFullClient,Registrierter Name,true
+dpscacheFullClient,Betriebssystem,true
+dpscacheFullClient,CPU-Typ,true
+dpscacheFullClient,CPUs,true
+dpscacheFullClient,RAM (MB),true
+dpscacheFullClient,Lokale Zeit,true
+dpscacheFullClient,Festplattengröße (GB),true
+dpscacheFullClient,Belegter Speicherplatz (GB),true
+dpscacheFullClient,Version,true
+dpscacheFullClient,Startzeit,true
+dpscacheFullClient,PID,true
+dpscacheFullClient,Hostname,true
+dpscacheFullClient,Host-IP-Adresse,true
+dpscacheFullClient,Anforderungs-Port,true
+dpsprocFullClient,Computername,true
+dpsprocFullClient,Namensserver,true
+dpsprocFullClient,Registrierter Name,true
+dpsprocFullClient,Betriebssystem,true
+dpsprocFullClient,CPU-Typ,true
+dpsprocFullClient,CPUs,true
+dpsprocFullClient,RAM (MB),true
+dpsprocFullClient,Lokale Zeit,true
+dpsprocFullClient,Festplattengröße (GB),true
+dpsprocFullClient,Belegter Speicherplatz (GB),true
+dpsprocFullClient,Version,true
+dpsprocFullClient,Startzeit,true
+dpsprocFullClient,PID,true
+dpsprocFullClient,Hostname,true
+dpsprocFullClient,Host-IP-Adresse,true
+dpsprocFullClient,Anforderungs-Port,true
+dpsprocFullClient,Älteste an einen Client übergebene Abrufdaten (in Sekunden),true
+dpsprocFullClient,Temporäres Verzeichnis,true
+dpsprocFullClient,Berichtsdaten für Clients freigeben,true
+dpsprocFullClient,Maximale Anzahl gleichzeitiger Berichtaufträge,true
+dpsprocFullClient,Zeitsperre für Verbindung im Leerlauf (Minuten),true
+dpsprocFullClient,Zeitsperre für Berichtsauftrag im Leerlauf (Minuten),true
+dpsprocFullClient,Viewer-Regenerierung gibt immer die akuellsten Daten zurück,true
+dpsprocFullClient,Maximale Anzahl von Aufträgen vor dem Zurücksetzen eines untergeordneten Prozesses,true
+dpsprocFullClient,Zuvor geladene Berichtsaufträge,true
+dpsprocFullClient,Verarbeitete Anforderungen,true
+dpsprocFullClient,Aktuell offene Berichtsaufträge,true
+dpsprocFullClient,Objekttyp,true
+dpsprocFullClient,Anforderungen in der Warteschlange,true
+dpsprocFullClient,Verarbeitungsmodul,true
+dpsprocFullClient,Aktuell offene Verbindungen,true
+dpsprocFullClient,Übertragene Daten (KB),true
+dpsprocFullClient,Fehlgeschlagene Anforderungen,true
+dpsprocFullClient,Maximale untergeordnete Prozesse,true
+eventserver,Hostname,true
+eventserver,Liste überwachter Dateien,true
+eventserver,Überwachte Dateien,true
+eventserver,Computername,true
+eventserver,Namensserver,true
+eventserver,Registrierter Name,true
+eventserver,Betriebssystem,true
+eventserver,CPU-Typ,true
+eventserver,CPUs,true
+eventserver,RAM (MB),true
+eventserver,Lokale Zeit,true
+eventserver,Festplattengröße (GB),true
+eventserver,Belegter Speicherplatz (GB),true
+eventserver,Version,true
+eventserver,Startzeit,true
+eventserver,PID,true
+eventserver,Host-IP-Adresse,true
+eventserver,Anforderungs-Port,true
+fileserver,Hostname,true
+fileserver,Aktive Dateien,true
+fileserver,Geschriebene Daten (MB),true
+fileserver,Gesendete Daten (MB),true
+fileserver,Liste aktiver Dateien,true
+fileserver,Aktive Verbindungen,true
+fileserver,Verfügbarer Speicherplatz im Stammverzeichnis (GB),true
+fileserver,Gesamtspeicherplatz im Stammverzeichnis (GB),true
+fileserver,Verfügbarer Speicherplatz im Stammverzeichnis (%),true
+fileserver,Computername,true
+fileserver,Namensserver,true
+fileserver,Registrierter Name,true
+fileserver,Betriebssystem,true
+fileserver,CPU-Typ,true
+fileserver,CPUs,true
+fileserver,RAM (MB),true
+fileserver,Lokale Zeit,true
+fileserver,Festplattengröße (GB),true
+fileserver,Belegter Speicherplatz (GB),true
+fileserver,Version,true
+fileserver,Startzeit,true
+fileserver,PID,true
+fileserver,Host-IP-Adresse,true
+fileserver,Anforderungs-Port,true
+rptappserver,Computername,true
+rptappserver,Namensserver,true
+rptappserver,Registrierter Name,true
+rptappserver,Betriebssystem,true
+rptappserver,CPU-Typ,true
+rptappserver,CPUs,true
+rptappserver,RAM (MB),true
+rptappserver,Lokale Zeit,true
+rptappserver,Festplattengröße (GB),true
+rptappserver,Belegter Speicherplatz (GB),true
+rptappserver,Version,true
+rptappserver,Startzeit,true
+rptappserver,PID,ture
+rptappserver,Hostname,true
+rptappserver,Host-IP-Adresse,true
+rptappserver,Anforderungs-Port,true
+rptappserver,Offene Dokumente,true
+rptappserver,Dokumente seit dem Serverstart,true
+rptappserver,Offene Verbindungen,true
+rptappserver,Verbindungen seit dem Serverstart,true
+webiserver,Offene Verbindungen,true
+webiserver,Aktive Anforderungen,true
+webiserver,Verwendeter Cache (KB),true
+webiserver,Größe des virtuellen Speichers (MB),true
+webiserver,Maximale Leerlaufzeit (Sekunden),true
+webiserver,Zeitsperre für Dokument im Leerlauf (Sekunden),true
+webiserver,Abfrageintervall (Sekunden),true
+webiserver,Maximale Dokumente pro Anwender,true
+webiserver,Geöffnete Dokumente vor erneutem Serverdurchlauf,true
+webiserver,Fehler für maximale Kartengröße aktiviert,true
+webiserver,Cache-Zeitsperre (Sekunden),true
+webiserver,Bereinigungsintervall für Cache (Sekunden),true
+webiserver,Zeitsperre für Verbindung im Leerlauf (Minuten),true
+webiserver,Maximale Verbindungen,true
+webiserver,Aktivierungszustand für Cache,true
+webiserver,Echtzeit-Cache aktiviert,true
+webiserver,Maximale Cache-Größe (KB),true
+webiserver,Maximale Größe für Cache-Reduzierung (MB),true
+webiserver,Wertelisten-Cache aktiviert,true
+webiserver,Batch-Größe für Wertelisten (Einträge),true
+webiserver,Maximale Einträge für benutzerdefinierte Sortierung,true
+webiserver,Maximale Zeichenstreamgröße (MB),true
+webiserver,Maximale Binärstreamgröße (MB),true
+webiserver,Maximale Anzahl der Universen im Universum-Cache,true
+webiserver,Maximale Anzahl der Dokumente im Dokument-Cache,true
+webiserver,Arbeitsspeicherüberwachung aktiviert,true
+webiserver,Unterer Grenzwert für Arbeitsspeicher (MB),true
+webiserver,Oberer Grenzwert für Arbeitsspeicher (MB),true
+webiserver,Maximaler Grenzwert für Arbeitsspeicher (MB),true
+webiserver,Gesicherter Cache aktiviert,true
+webiserver,Maximale Wertelistengröße (Einträge),true
+webiserver,Computername,true
+webiserver,Namensserver,true
+webiserver,Registrierter Name,true
+webiserver,Betriebssystem,true
+webiserver,CPU-Typ,true
+webiserver,CPUs,true
+webiserver,RAM (MB),true
+webiserver,Lokale Zeit,true
+webiserver,Festplattengröße (GB),true
+webiserver,Belegter Speicherplatz (GB),true
+webiserver,Version,true
+webiserver,Startzeit,true
+webiserver,PID,true
+webiserver,Hostname,true
+webiserver,Host-IP-Adresse,true
+webiserver,Anforderungs-Port,true
+polestarExploration,Dienstname,true
+polestarExploration,RAM (MB),true
+polestarExploration,Festplattengröße (GB),true
+polestarExploration,Startzeit,true
+polestarExploration,Version,true
+polestarExploration,Computername,true
+polestarExploration,Dienstbeschreibung,true
+polestarExploration,Betriebssystem,true
